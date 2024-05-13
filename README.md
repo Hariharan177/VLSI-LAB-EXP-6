@@ -74,7 +74,7 @@ BUILDING THE INVERTER TEST DESIGN: Creating the inverter test cell view:
 
 ANALOG SIMULATION WITH SPECTRA: Starting the simulation environment:
 
-1.In the Inverter-test schematic window execute launch – ADEL. The variable virtuoso analog design environment (ADE) simulation window appears. Choosing a simulator:
+    1.In the Inverter-test schematic window execute launch – ADEL. The variable virtuoso analog design environment (ADE) simulation window appears. Choosing a simulator:
 
 2.In the simulation window (ADE) execute setup – simulator / directory / host.
 
