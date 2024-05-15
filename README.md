@@ -110,18 +110,24 @@ Running the simulation:
 CMOS NAND GATE
 
 NAND SCHEMATIC
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/951b9981-976a-485a-895c-a851e1564f6e)
 
 NAND TEST CELL VIEW
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/8fe0b4ec-1448-41fb-bc52-3402887f9cca)
 
 NAND SIMULATION WITH SPECTRA
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/50c47f83-1d69-4d6b-9b27-8108a0b33833)
 
 CMOS NOR GATE NOR SCHEMATIC
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/a21c9ef5-f190-4318-94b1-f6c49765a4c8)
 
+
 NOR TEST CELL VIEW
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/4ef2025e-23b3-4773-b850-5b32432d5928)
 
 
