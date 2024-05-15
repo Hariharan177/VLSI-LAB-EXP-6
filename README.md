@@ -131,6 +131,8 @@ NOR TEST CELL VIEW
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/4ef2025e-23b3-4773-b850-5b32432d5928)
 
 
+
+
 NOR SIMULATION WITH SPECTRA
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/12de181e-c5f6-4892-a37e-f990776810f7)
