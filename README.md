@@ -1,4 +1,4 @@
-SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
+**SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL**
 
 AIM: To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
@@ -33,7 +33,9 @@ Adding components to schematic:
 4.This is a table of components for building the inverter schematic.
 
 5.After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/ff31b72b-d396-4235-b96b-aec6b854e3e1)
+
 
 Adding pins to schematic:
 
