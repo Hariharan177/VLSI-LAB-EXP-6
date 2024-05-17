@@ -1,8 +1,8 @@
 **SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL**
 
-AIM: To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
+**AIM:** To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
 
 1.Laptop with MobaXterm
 
@@ -22,7 +22,7 @@ APPARATUS REQUIRED:
 
 9.If you right click on the ‘my design lib’ and select properties, you will find that gpdk045 library is attached as techlib to ‘my design lib’.
 
-Creating a schematic cell view:
+**Creating a schematic cell view:**
 
 1.In the CIW or library manager, execute file – new – cell viw.
 
@@ -30,7 +30,7 @@ Creating a schematic cell view:
 
 3.Click ok when done the above setting. A black schematic window for the inverter design appears.
 
-Adding components to schematic:
+**Adding components to schematic:**
 
 1.In the inverter schematic window, click the instance fixed menu icon to display the add instance form.
 
@@ -45,7 +45,7 @@ Adding components to schematic:
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/ff31b72b-d396-4235-b96b-aec6b854e3e1)
 
 
-Adding pins to schematic:
+**Adding pins to schematic:**
 
 1.Click the pin fixed menu icon in the schematic window. You can execute create pin or press ‘p’.
 
@@ -63,7 +63,7 @@ Adding pins to schematic:
 
 Saving the design: Click the check and save icon in the schematic editor window observe CIW output for any errors.
 
-BUILDING THE INVERTER TEST DESIGN: Creating the inverter test cell view:
+**BUILDING THE INVERTER TEST DESIGN: Creating the inverter test cell view:**
 
 1.In the CIW or library manager, execute file – new – cell view.
 
@@ -83,7 +83,7 @@ BUILDING THE INVERTER TEST DESIGN: Creating the inverter test cell view:
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/1fb71800-6681-4a54-9d9f-8a1201d75bb8)
 
-ANALOG SIMULATION WITH SPECTRA: Starting the simulation environment:
+**ANALOG SIMULATION WITH SPECTRA: Starting the simulation environment:**
 
 1.In the Inverter-test schematic window execute launch – ADEL. The variable virtuoso analog design environment (ADE) simulation window appears. Choosing a simulator:
 
@@ -101,13 +101,13 @@ ANALOG SIMULATION WITH SPECTRA: Starting the simulation environment:
 
 8.To set for DC analysis a. In the analysis section select DC. b. Turn on save DC operating point. c. Turn on the component parameters. d. Double click the select Vpulse source or Type V0 (capital V zero). e. Select the DC voltage in the select window parameter and click in the form start and stop voltages are 0 to 1.8. f. Select the enable button and click apply and then click ok.
 
-Selecting output for plotting:
+**Selecting output for plotting:**
 
 1.Execute the o/p’s to be plotted -select on sschematic in the simulation window.
 
 2.Follow the prompt at the bottom. Click on the o/p net vout input vin of the inverter. Press esc with the cursor after selecting.
 
-Running the simulation:
+**Running the simulation:**
 
 1.Execute the simulation Netlist and run in the simulation window to start the simulation on the icon. This will create the netlist as well as run the simulation.
 
@@ -117,32 +117,31 @@ Running the simulation:
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/1d78889c-c78a-45bd-a957-f45bd5c23390)
 
-CMOS NAND GATE
+**CMOS NAND GATE**
 
-NAND SCHEMATIC
+**NAND SCHEMATIC**
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/951b9981-976a-485a-895c-a851e1564f6e)
 
-NAND TEST CELL VIEW
+**NAND TEST CELL VIEW**
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/8fe0b4ec-1448-41fb-bc52-3402887f9cca)
 
-NAND SIMULATION WITH SPECTRA
+**NAND SIMULATION WITH SPECTRA**
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/50c47f83-1d69-4d6b-9b27-8108a0b33833)
 
-CMOS NOR GATE NOR SCHEMATIC
+**CMOS NOR GATE NOR SCHEMATIC**
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/a21c9ef5-f190-4318-94b1-f6c49765a4c8)
 
 
-NOR TEST CELL VIEW
+**NOR TEST CELL VIEW**
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/4ef2025e-23b3-4773-b850-5b32432d5928)
 
 
 
-
-NOR SIMULATION WITH SPECTRA
+**NOR SIMULATION WITH SPECTRA**
 
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-6/assets/164841000/12de181e-c5f6-4892-a37e-f990776810f7)
