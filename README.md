@@ -5,13 +5,21 @@ AIM: To design and simulate the CMOS inverter and observe the DC and transient r
 APPARATUS REQUIRED:
 
 1.Laptop with MobaXterm
+
 2.Cadence tool PROCEDURE SCHEMATIC ENTRY: Creating a new library:
+
 3.In the library manager, execute File - New library. The new library form appears.
+
 4.In the new library form, type ‘my design lib’ in the name section.
+
 5.In the field of directory section, verify that the path to the library is set to ~/Database / Cadence- analog – lab –bl3 and click ok.
+
 6.In the next ‘technology file for new library form select option attach to an existing tech file and click ok.
+
 7.In the ‘attach design library to technology file’ form, select gpdk045 form the cyclic field and click ok.
+
 8.After creating a new library you can verify it from the library manager.
+
 9.If you right click on the ‘my design lib’ and select properties, you will find that gpdk045 library is attached as techlib to ‘my design lib’.
 
 Creating a schematic cell view:
